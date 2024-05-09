@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[7.0.0-preview.1, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "microsoft.semantickernel": {
               "target": "Package",
               "version": "[1.10.0, )"
